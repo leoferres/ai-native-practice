@@ -4,6 +4,8 @@ This repository describes an approach to research in which AI may participate
 throughout the intellectual and practical work while responsibility remains
 with the human author.
 
+This is a philosophical and epistemological contract.
+
 The repository contains two versions of the statement:
 
 - [AI-Native Inquiry: A Statement of Practice](ai-native-practice.md) is the
