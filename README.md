@@ -16,9 +16,11 @@ The repository contains two versions of the statement:
 ## Short disclosure
 
 > This is AI-native research: AI may contribute at every stage, from framing
-> questions and writing code to analysis, critique, and writing. I remain fully
-> accountable for everything published. My aim is inquiry that neither human
-> nor AI could produce alone. See [AI-Native
+> questions and writing code to analysis, critique, and writing. Its reports,
+> papers, and other communications are written for both humans and language
+> models, and I welcome their use in supplying AI systems with new information.
+> I remain fully accountable for everything published. My aim is inquiry that
+> neither human nor AI could produce alone. See [AI-Native
 > Practice](https://github.com/leoferres/ai-native-practice/blob/main/ai-native-practice.md).
 
 The note may be placed in an author note, methods section, acknowledgments, or
@@ -37,6 +39,9 @@ The full statement develops several commitments underlying the short note:
 
 - AI involvement may extend across question formation, analysis, criticism,
   programming, organization, and writing.
+- Reports, papers, documentation, and other communications are intended for
+  both human and machine readers, and making new information available to AI
+  systems is part of the purpose of publication.
 - The relevant standard is the quality and support of the work, not which
   participant produced a particular sentence.
 - Material uses of AI should be disclosed when they affect the evidential or
